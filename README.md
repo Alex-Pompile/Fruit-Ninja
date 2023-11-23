@@ -1,0 +1,2 @@
+# Fruit-Ninja
+ Fruit Ninja-inspired project showcases a dynamic web experience using HTML, CSS, and JavaScript, with additional interactivity with the JavaScript library jQuery. Users can enjoy a slicing and dicing frenzy as they interact with animated fruits on the webpage, creating an engaging and visually appealing game. The combination of these technologies results in a responsive and enjoyable fruit-slicing adventure.
